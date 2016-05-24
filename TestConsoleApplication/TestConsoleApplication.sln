@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApplication", "TestConsoleApplication.csproj", "{BCDC8B50-D039-48C8-BDCD-EFC1E42F71C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService", "PaymentService\PaymentService.csproj", "{72E8FFC1-B306-4328-939E-647BD1CB149B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankKata", "BankKata\BankKata.csproj", "{4C50090C-3797-4BF8-93D8-96BC22EB167B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BCDC8B50-D039-48C8-BDCD-EFC1E42F71C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCDC8B50-D039-48C8-BDCD-EFC1E42F71C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCDC8B50-D039-48C8-BDCD-EFC1E42F71C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E8FFC1-B306-4328-939E-647BD1CB149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E8FFC1-B306-4328-939E-647BD1CB149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E8FFC1-B306-4328-939E-647BD1CB149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E8FFC1-B306-4328-939E-647BD1CB149B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C50090C-3797-4BF8-93D8-96BC22EB167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C50090C-3797-4BF8-93D8-96BC22EB167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C50090C-3797-4BF8-93D8-96BC22EB167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C50090C-3797-4BF8-93D8-96BC22EB167B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
